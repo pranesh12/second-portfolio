@@ -18,7 +18,7 @@ const Footer = () => {
             <p>Thanks for visiting my portfolio I am currently open for work</p>
             {/* <p>Developed by Pranesh Chakma</p> */}
             <h5 className="mx-auto md:mx-0 font-medium">
-              praneshchakama6@gmail.com
+              praneshck7@gmail.com
             </h5>
           </aside>
           <nav className="mx-auto md:mx-0 md:ml-auto ">
