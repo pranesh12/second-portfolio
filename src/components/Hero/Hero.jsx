@@ -30,7 +30,7 @@ const Hero = () => {
                 <button className="btn  btn-primary ">See my work</button>
               </Link>
               <Link
-                href="https://drive.google.com/file/d/1Rlg15gSs-Z8oBNSWpXB-HaE1-tDXUk0W/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1g50uKSqhsXlZjHKhvTNYfvBD1rr2FdWH/view?usp=drive_link"
                 target="_blank"
               >
                 <button className="btn btn-outline btn-primary">
